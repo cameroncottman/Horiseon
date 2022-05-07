@@ -15,7 +15,7 @@ contact me on slack! "cmaeron cottman"
 -CSS
 
 **website
-file:///Users/cambino/module%201%20folder/urban-octo-telegram/Develop_clean/index.html
+https://cameroncottman.github.io/Horiseon/
 
 ** contribution 
 refactored by cameron cottman
